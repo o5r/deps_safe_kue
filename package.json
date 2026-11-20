@@ -48,5 +48,10 @@
   },
   "optionalDependencies": {
     "reds": "^0.2.5"
+  },
+  "overrides": {
+    "form-data": "^2.5.4",
+    "minimist": "^0.2.4",
+    "growl": "^1.10.5"
   }
 }
